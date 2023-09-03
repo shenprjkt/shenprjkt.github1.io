@@ -25,6 +25,3 @@ author: 'ShenRn'
     <li>Dengan bermusyawarah dalam sistem demokrasi saat ini kita dapat menyelesaikan sesuatu persoalan, meminta pendapat untuk memutuskan perkara keduniaan serta bersepakat dalam suatu keputusan bersama.</li>
 </ol>
 
-
-
-
