@@ -23,5 +23,5 @@ author: 'ShenRn'
 <ul>
     <li>Musyawarah adalah bagian penting dari demokrasi. Musyawarah juga memiliki manfaat dalam kegiatan sehari-hari untuk mencapai mufakat pada kepentingan masyarakat banyak maupun dalam keluarga. Lain halnya dengan voting atau pemungutan suara yang jika terjadi kebuntuan pemecahan masalah yang berkepanjangan.
     <li>Dengan bermusyawarah dalam sistem demokrasi saat ini kita dapat menyelesaikan sesuatu persoalan, meminta pendapat untuk memutuskan perkara keduniaan serta bersepakat dalam suatu keputusan bersama.</li>
-</ul>
+
 
