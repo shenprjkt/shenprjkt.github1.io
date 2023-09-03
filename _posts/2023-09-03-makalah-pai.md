@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[August] Musyawarah Dalam demokrasi"
-date: 2023-09-03 23:15:00 +0700
+date: 2023-09-03 10:15:00 +0700
 categories: Custom Rom
 author: 'ShenRn'
 ---
